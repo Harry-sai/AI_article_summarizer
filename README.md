@@ -196,18 +196,6 @@ User Input (URL + Heading)
 
 ---
 
-## 📈 Performance Metrics
-
-| Metric | Value |
-|--------|-------|
-| **Average Processing Time** | 3-5 seconds per article |
-| **Supported Websites** | 90%+ of common news/blog sites |
-| **Summary Quality** | ROUGE-L > 0.4 (industry standard) |
-| **API Uptime** | 99.5%+ (with proper hosting) |
-| **Concurrent Requests** | Scalable with async processing |
-
----
-
 ## 🏆 Competitive Advantages
 
 | Feature | Traditional RSS Readers | Manual Reading | **AI Summarizer** |
