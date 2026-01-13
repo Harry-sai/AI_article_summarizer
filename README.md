@@ -314,4 +314,8 @@ The AI Article Summarizer showcases **production-grade NLP engineering** applied
 
 ---
 
+### To Run 
+
+`uvicorn main:app --reload`
+
 *Built with focus on modularity, reusability, and production readiness.*
